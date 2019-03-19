@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    background: rgba(71, 107, 107, 0.75);
+    color: white;
+}
+
+.main {
+    text-align: center;
+}
+
+.paragraph {
+    text-align: center;
+}
+
+.image {
+    border-radius: 20px;
+    border-color: #DCDCDC;
+    border-width: 10px;
+}
